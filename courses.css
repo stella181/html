@@ -75,7 +75,7 @@ body{
 
 .offer{
     background-color: #EFEFF2;
-    background-image: url('images/lady.png');
+    background-image: url('lady.png');
     background-size: contain;
     background-position:bottom right;
     background-repeat:  no-repeat;
@@ -85,7 +85,7 @@ body{
 }
 .offer_holder{
     width: 70%;
-    background-image: url('images/bg.png');
+    background-image: url('bg.png');
     /* background-size: 50% 50%; */
     background-position: left;
     background-repeat:  no-repeat;
